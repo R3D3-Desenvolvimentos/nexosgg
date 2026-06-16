@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="./assets/nexosgg-banner.png" alt="NexosGG" width="100%" />
+<img src="./assets/nexos-landing.png" alt="NexosGG" width="100%" />
 
 # NexosGG
 
 ### A plataforma *link-in-bio* feita para a comunidade gamer e de streamers
 
-Um perfil público, personalizável e em tempo real em `nexos.gg/seu-usuario` —
+Um perfil público, personalizável e em tempo real em `nexosgg.com/seu-usuario` —
 para centralizar toda a sua presença online em um só lugar.
 
-[![Demo](https://img.shields.io/badge/Demo-nexos.gg-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nexos.gg)
+[![Demo](https://img.shields.io/badge/Demo-nexosgg.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nexosgg.com)
 [![Por R3D3](https://img.shields.io/badge/Desenvolvido_por-R3D3-2563EB?style=for-the-badge)](https://github.com/R3D3-Desenvolvimentos)
 
 </div>
